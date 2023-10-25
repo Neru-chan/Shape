@@ -1,3 +1,3 @@
-[submodule "Point2D"]
+[submodule "Shape/Point2D"]
 	path = Shape/Point2D
 	url = https://github.com/Neru-chan/Point2D
